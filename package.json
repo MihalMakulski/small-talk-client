@@ -9,9 +9,13 @@
   "bin": {
     "st": "./bin/index.js"
   },
+  "preferGlobal": true,
   "keywords": [],
   "author": "Michal Makulski",
   "license": "ISC",
+  "directories": {
+    "lib": "lib"
+  },
   "dependencies": {
     "socket.io-client": "^2.1.1"
   }
