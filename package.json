@@ -10,7 +10,7 @@
     "st": "./bin/index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Michal Makulski",
   "license": "ISC",
   "dependencies": {
     "socket.io-client": "^2.1.1"
