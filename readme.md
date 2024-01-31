@@ -5,7 +5,7 @@ Terminal client for SmallTalk app.
 ## Install
 
 ```sh
-npm install -g git+ssh://git@bitbucket.org:MichalMakulski/small-talk-client.git
+npm install -g git+ssh://git@github.com:MihalMakulski/small-talk-client.git
 ```
 
 ## Usage
